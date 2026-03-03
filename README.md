@@ -126,7 +126,7 @@ https://automate.browserstack.com/projects/ElPais+Automation+Assignment/builds/E
 
 ### 📸 Build Dashboard Screenshot
 
-![BrowserStack Build Result](docs/browserstack-build-success.png)
+![BrowserStack Build Result](docs/browserstack-build-success.png.png)
 
 ---
 
